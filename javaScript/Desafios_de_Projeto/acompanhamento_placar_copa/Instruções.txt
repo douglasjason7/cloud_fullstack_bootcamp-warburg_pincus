@@ -1,0 +1,18 @@
+A partir do projeto base:
+
+1- Importar a lib http://party.js.org via CDN;
+2- Criar uma função que irá mostrar os confetes dentro de algum elemento (id);
+3- Definir o intevalo de exibição dos confetes;
+
+4- Criar um projeto Firestore no Firebase;
+5- Criar um banco de dados em ambiente de teste;
+6- Conectar banco de dados;
+
+7- Inserir audio quando for gol do BR;
+8- Inserir animação do rosto quando for gol do BR;
+
+Melhorias:
+Inserir mais partidas na lista;
+Inserir um formulário fixo no rodapé para alterar o placar das partidas, com os seguintes campos:
+	a- select para escolher qual partida será manipulada;
+	b- input time A + input time B;
